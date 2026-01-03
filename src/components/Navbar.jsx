@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+        <nav className="navbar navbar-expand-lg navbar-dark navbar-custom mb-4 shadow">
             <div className="container">
                 <a className="navbar-brand" href="#">
                     NewsPortal

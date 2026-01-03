@@ -1,7 +1,7 @@
 function NewsItem({ news }) {
     return (
         <div className="col-md-4 mb-4">
-            <div className="card h-100 shadow-sm">
+            <div className="card h-100 shadow-sm news-card">
                 <img
                     src={news.urlToImage}
                     className="card-img-top"
@@ -9,12 +9,12 @@ function NewsItem({ news }) {
                 />
                 <div className="card-body d-flex flex-column">
                     <div className="mb-2">
-                        <span className="badge bg-primary me-2">{news.category}</span>
+                        <span className="badge rounded-pill me-2">{news.category}</span>
                         <small className="text-muted">{news.date}</small>
                     </div>
-                    <h5 className="card-title">{news.title}</h5>
+                    <h5 className="card-title fw-bold">{news.title}</h5>
                     <p className="card-text flex-grow-1">{news.description}</p>
-                    <a href="#" className="btn btn-outline-primary mt-auto">
+                    <a href="#" className="btn btn-custom mt-auto">
                         Baca Selengkapnya
                     </a>
                 </div>

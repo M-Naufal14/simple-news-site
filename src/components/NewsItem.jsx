@@ -15,7 +15,7 @@ function NewsItem({ news }) {
                     <h5 className="card-title">{news.title}</h5>
                     <p className="card-text flex-grow-1">{news.description}</p>
                     <a href="#" className="btn btn-outline-primary mt-auto">
-                        Read More
+                        Baca Selengkapnya
                     </a>
                 </div>
             </div>

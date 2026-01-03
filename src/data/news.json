@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "title": "Technology Advances in 2024",
-        "description": "A look back at the biggest tech leaps of the year, from AI to Quantum Computing.",
-        "urlToImage": "https://placehold.co/600x400?text=Technology",
-        "category": "Technology",
+        "title": "Kemajuan Teknologi di Tahun 2024",
+        "description": "Melihat kembali lompatan teknologi terbesar tahun ini, dari AI hingga Komputasi Kuantum.",
+        "urlToImage": "https://placehold.co/600x400?text=Teknologi",
+        "category": "Teknologi",
         "date": "2024-01-15"
     },
     {
         "id": 2,
-        "title": "Global Sports Update",
-        "description": "The latest scores and highlights from around the world in football, basketball, and tennis.",
-        "urlToImage": "https://placehold.co/600x400?text=Sports",
-        "category": "Sports",
+        "title": "Update Olahraga Dunia",
+        "description": "Skor dan highlight terbaru dari seluruh dunia dalam sepak bola, basket, dan tenis.",
+        "urlToImage": "https://placehold.co/600x400?text=Olahraga",
+        "category": "Olahraga",
         "date": "2024-01-14"
     },
     {
         "id": 3,
-        "title": "Political Landscape Shifts",
-        "description": "Analyzing the recent changes in government policies and international relations.",
-        "urlToImage": "https://placehold.co/600x400?text=Politics",
-        "category": "Politics",
+        "title": "Pergeseran Lanskap Politik",
+        "description": "Menganalisis perubahan kebijakan pemerintah dan hubungan internasional terkini.",
+        "urlToImage": "https://placehold.co/600x400?text=Politik",
+        "category": "Politik",
         "date": "2024-01-13"
     },
     {
         "id": 4,
-        "title": "Healh Tips for Summer",
-        "description": "Top advice from experts on how to stay hydrated and protected during the heatwave.",
-        "urlToImage": "https://placehold.co/600x400?text=Health",
-        "category": "Health",
+        "title": "Tips Kesehatan Musim Panas",
+        "description": "Saran terbaik dari para ahli tentang cara tetap terhidrasi dan terlindungi selama gelombang panas.",
+        "urlToImage": "https://placehold.co/600x400?text=Kesehatan",
+        "category": "Kesehatan",
         "date": "2024-01-12"
     },
     {
         "id": 5,
-        "title": "New Space Mission Launched",
-        "description": "NASA confirms the successful launch of its latest probe to study the outer solar system.",
-        "urlToImage": "https://placehold.co/600x400?text=Space",
-        "category": "Science",
+        "title": "Misi Luar Angkasa Baru Diluncurkan",
+        "description": "NASA mengonfirmasi peluncuran sukses wahana terbarunya untuk mempelajari tata surya luar.",
+        "urlToImage": "https://placehold.co/600x400?text=Luar+Angkasa",
+        "category": "Sains",
         "date": "2024-01-11"
     },
     {
         "id": 6,
-        "title": "The Future of Electric Cars",
-        "description": "How the automotive industry is rapidly shifting towards sustainable energy solutions.",
-        "urlToImage": "https://placehold.co/600x400?text=Cars",
-        "category": "Technology",
+        "title": "Masa Depan Mobil Listrik",
+        "description": "Bagaimana industri otomotif bergeser dengan cepat menuju solusi energi berkelanjutan.",
+        "urlToImage": "https://placehold.co/600x400?text=Mobil",
+        "category": "Teknologi",
         "date": "2024-01-10"
     }
 ]

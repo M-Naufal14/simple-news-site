@@ -19,7 +19,7 @@ function App() {
       <Navbar />
 
       <main className="container flex-grow-1">
-        <h1 className="text-center mb-4">Latest Headlines</h1>
+        <h1 className="text-center mb-4">Berita Terbaru</h1>
 
         {/* Pass state data to NewsList component */}
         <NewsList news={news} />

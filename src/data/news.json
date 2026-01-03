@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Technology Advances in 2024",
+        "description": "A look back at the biggest tech leaps of the year, from AI to Quantum Computing.",
+        "urlToImage": "https://placehold.co/600x400?text=Technology",
+        "category": "Technology",
+        "date": "2024-01-15"
+    },
+    {
+        "id": 2,
+        "title": "Global Sports Update",
+        "description": "The latest scores and highlights from around the world in football, basketball, and tennis.",
+        "urlToImage": "https://placehold.co/600x400?text=Sports",
+        "category": "Sports",
+        "date": "2024-01-14"
+    },
+    {
+        "id": 3,
+        "title": "Political Landscape Shifts",
+        "description": "Analyzing the recent changes in government policies and international relations.",
+        "urlToImage": "https://placehold.co/600x400?text=Politics",
+        "category": "Politics",
+        "date": "2024-01-13"
+    },
+    {
+        "id": 4,
+        "title": "Healh Tips for Summer",
+        "description": "Top advice from experts on how to stay hydrated and protected during the heatwave.",
+        "urlToImage": "https://placehold.co/600x400?text=Health",
+        "category": "Health",
+        "date": "2024-01-12"
+    },
+    {
+        "id": 5,
+        "title": "New Space Mission Launched",
+        "description": "NASA confirms the successful launch of its latest probe to study the outer solar system.",
+        "urlToImage": "https://placehold.co/600x400?text=Space",
+        "category": "Science",
+        "date": "2024-01-11"
+    },
+    {
+        "id": 6,
+        "title": "The Future of Electric Cars",
+        "description": "How the automotive industry is rapidly shifting towards sustainable energy solutions.",
+        "urlToImage": "https://placehold.co/600x400?text=Cars",
+        "category": "Technology",
+        "date": "2024-01-10"
+    }
+]

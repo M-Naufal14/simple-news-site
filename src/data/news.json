@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Kemajuan Teknologi di Tahun 2024",
         "description": "Melihat kembali lompatan teknologi terbesar tahun ini, dari AI hingga Komputasi Kuantum.",
-        "urlToImage": "https://placehold.co/600x400?text=Teknologi",
+        "urlToImage": "https://loremflickr.com/600/400/technology,computer",
         "category": "Teknologi",
         "date": "2024-01-15"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "title": "Update Olahraga Dunia",
         "description": "Skor dan highlight terbaru dari seluruh dunia dalam sepak bola, basket, dan tenis.",
-        "urlToImage": "https://placehold.co/600x400?text=Olahraga",
+        "urlToImage": "https://loremflickr.com/600/400/sports,football",
         "category": "Olahraga",
         "date": "2024-01-14"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Pergeseran Lanskap Politik",
         "description": "Menganalisis perubahan kebijakan pemerintah dan hubungan internasional terkini.",
-        "urlToImage": "https://placehold.co/600x400?text=Politik",
+        "urlToImage": "https://loremflickr.com/600/400/politics,news",
         "category": "Politik",
         "date": "2024-01-13"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Tips Kesehatan Musim Panas",
         "description": "Saran terbaik dari para ahli tentang cara tetap terhidrasi dan terlindungi selama gelombang panas.",
-        "urlToImage": "https://placehold.co/600x400?text=Kesehatan",
+        "urlToImage": "https://loremflickr.com/600/400/health,wellness",
         "category": "Kesehatan",
         "date": "2024-01-12"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Misi Luar Angkasa Baru Diluncurkan",
         "description": "NASA mengonfirmasi peluncuran sukses wahana terbarunya untuk mempelajari tata surya luar.",
-        "urlToImage": "https://placehold.co/600x400?text=Luar+Angkasa",
+        "urlToImage": "https://loremflickr.com/600/400/space,rocket",
         "category": "Sains",
         "date": "2024-01-11"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "title": "Masa Depan Mobil Listrik",
         "description": "Bagaimana industri otomotif bergeser dengan cepat menuju solusi energi berkelanjutan.",
-        "urlToImage": "https://placehold.co/600x400?text=Mobil",
+        "urlToImage": "https://loremflickr.com/600/400/electriccar,charging",
         "category": "Teknologi",
         "date": "2024-01-10"
     }

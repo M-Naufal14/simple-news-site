@@ -1,18 +1,41 @@
-# React + Vite
+# Portal Berita Sederhana (Simple News Site)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyek ini adalah aplikasi web berita sederhana yang dibangun menggunakan **React** dan **Bootstrap**. Aplikasi ini menampilkan daftar berita dengan tata letak responsif, tema warna kustom, dan data dummy.
 
-Currently, two official plugins are available:
+## 🚀 Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **Tampilan Responsif**: Menggunakan Grid System Bootstrap agar rapi di desktop dan mobile.
+*   **Tema Kustom**: Desain warna Biru/Cyan yang modern dan cerah.
+*   **Data Dinamis (Simulasi)**: Mengambil data berita dari file JSON lokal.
+*   **Komponen Terpisah**: Kode terstruktur rapi dengan komponen `Navbar`, `NewsList`, `NewsItem`, dan `Footer`.
+*   **Bahasa Indonesia**: Seluruh antarmuka menggunakan Bahasa Indonesia.
 
-## React Compiler
+## 🛠️ Teknologi yang Digunakan
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+*   [React](https://react.dev/) - Library JS untuk membangun antarmuka pengguna
+*   [Bootstrap 5](https://getbootstrap.com/) - Framework CSS untuk styling dan responsivitas
+*   [Vite](https://vitejs.dev/) - Build tool yang cepat
 
-Note: This will impact Vite dev & build performances.
+## 📦 Cara Menjalankan Project
 
-## Expanding the ESLint configuration
+1.  **Clone repositori ini** (jika ada) atau unduh filenya.
+2.  **Install dependensi**:
+    Buka terminal di folder project dan jalankan:
+    ```bash
+    npm install
+    ```
+3.  **Jalankan server development**:
+    ```bash
+    npm run dev
+    ```
+4.  Buka browser dan akses alamat yang muncul (biasanya `http://localhost:5173`).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Struktur Folder
+
+*   `src/components`: Berisi komponen UI (Navbar, Footer, NewsItem, dll).
+*   `src/data`: Berisi data dummy (`news.json`).
+*   `src/App.css`: Styling kustom untuk tema.
+
+## 👤 Kredit
+
+Dibuat oleh **M Naufal Arkan**.

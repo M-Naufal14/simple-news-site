@@ -1,13 +1,13 @@
 /* Basic Colors */
 :root {
-  --primary-color: #6366f1;
-  /* Indigo */
-  --secondary-color: #a855f7;
-  /* Purple */
-  --accent-color: #ec4899;
-  /* Pink */
-  --bg-color: #f0fdfa;
-  /* Light Teal/Blue */
+  --primary-color: #0d6efd;
+  /* Bootstrap Blue */
+  --secondary-color: #0dcaf0;
+  /* Cyan */
+  --accent-color: #ffc107;
+  /* Yellow/Gold */
+  --bg-color: #f0f9ff;
+  /* Light Blue */
 }
 
 /* Navbar Gradient */
